@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jonasaacampos/jonasaacampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # jaac
 Hi, I'm Jonas Araujo de Avila Campos. I'm looking for new challenges. I want breaking new ground in my work life.
 I like to share what I know (to give back everything I learn everyday).
