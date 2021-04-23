@@ -1,5 +1,5 @@
 # jaac
-Hi, I'm Jonas Araujo de Avila Campos. I'm looking for new challenges. I want breaking new ground in my work life.
+Hi, I'm Jonas Campos. I'm looking for new challenges. I want breaking new ground in my work life.
 I like to share what I know (to give back everything I learn everyday).
 
 I'm a tremendous geek who aspires to work with data sicence or something like that. I'm self-taught many things (like English, wich I learned by readind the  linux and python documentation)
