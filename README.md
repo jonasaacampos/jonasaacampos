@@ -1,8 +1,10 @@
-# jaac
-Hi, I'm Jonas Campos. I'm looking for new challenges. I want breaking new ground in my work life.
-I like to share what I know (to give back everything I learn everyday).
+# [![jonasaacampos header](img/jaacamposGitHubProfile.gif)](https://github.com/jonasaacampos)
 
-I'm a tremendous geek who aspires to work with data sicence or something like that. I'm self-taught many things (like English, wich I learned by readind the  linux and python documentation)
+# This is me
+
+Programo por diversão ou necessidade? Na dúvida, faço escolho as duas opções.
+Sou autodidata, e compartilho aqui alguns de meus projetos.
+Desde `scripts` que fiz para facilitar minha rotina até alguns estudos mais complexos.
 
 ## In what in believe / my values
 🤪 I seek to the maximum to be an authentic self<br/>
@@ -10,26 +12,35 @@ I'm a tremendous geek who aspires to work with data sicence or something like th
 🕵 Beginner's mindset and curiosity<br/>
 🤝 Share makes to grow up
 
-## My academic way
-- Specializing in Health Informatics - UNIFESP
-- MBA People Management, Leadership, Carreers and Coaching - PUCRS
-- Bacharelor in Psychology - UniFae/Unicamp
+## Trajetória Acadêmica
+- UNIFESP - Especialização em Informática da Saúde
+- PUCRS - MBA em Gestão de Pessoas, Liderança e Coaching
+- UniFae/Unicamp - Bacharel em Psicologia
 
-## My tech skills
- - Statistcs
- - Python
- - Wordpress
- - Adobe design suite
+## Linguagens mais utilizadas
 
-## My social media profiles
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasaacampos&layout=compact&theme=tokyonight)](https://github.com/jonasaacampos)
+
+**Confira mais projetos: [AQUI](https://jonasaacampos.github.io/portifolio/)**
+
+
+
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jonasaacampos/"><img height="30" src="https://image.flaticon.com/icons/svg/725/725337.svg"></a>
- &nbsp;&nbsp;
-   <a href="https://www.instagram.com/garotodeberlim/"><img height="30" src="https://image.flaticon.com/icons/svg/1014/1014650.svg"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/jonasaacampos"><img height="30" src="https://image.flaticon.com/icons/svg/1383/1383259.svg"></a>
+
+  <a href='https://github.com/jonasaacampos'>
+    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+  </a>
+
+  <a href='https://www.linkedin.com/in/jonasaacampos/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
+
+  <a href='https://www.facebook.com/jonasaacampos'>
+    <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/>
+  </a>
+
 </p>
 
 <hr/>
 
-##### _thanks for @katmeister and @WaylonWalker for inpired me to organized my github_
+##### thanks for @katmeister and @WaylonWalker for inpired me to organized my github | Icons made by Freepik from flaticon.com
