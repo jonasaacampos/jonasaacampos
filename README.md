@@ -41,6 +41,8 @@ Desde `scripts` que fiz para facilitar minha rotina até alguns estudos mais com
 
 </p>
 
+# [![jonasaacampos header](img/github-contribution-grid-snake.svg)](https://github.com/jonasaacampos)
+
 <hr/>
 
 ##### thanks for @katmeister and @WaylonWalker for inpired me to organized my github | Icons made by Freepik from flaticon.com
