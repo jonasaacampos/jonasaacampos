@@ -4,10 +4,23 @@
 
 # Hey there 👋
 
-Programo por diversão ou necessidade? Na dúvida, faço escolho as duas opções.
-Sou autodidata, e compartilho aqui alguns de meus projetos. 
+I'm Father, Husband, communicative, proactive and sagacious, a person who values good talks. I like reading, studying, cooking, cycling and programming.
 
-Desde `scripts` que fiz para facilitar minha rotina até alguns estudos mais complexos.
+```javascript
+const jonasCampos = {
+  code: ['Java', 'Python'],
+  certifications: ['SFPC', 'LLL'],
+  technologies: {
+    tools: ['Flask', 'Bulma', 'Django'],
+    mobile: ['Kivy'],
+    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Oracle'],
+    ides: ['VS Code', 'Pycharm', 'Vim', 'InteliJ'],
+  },
+  methodologies: ['Scrum', 'Kanban'],
+  interest: ['Python', 'Java', 'C#', 'R', 'SQL', 'Big Data'],
+  otherCodes: ['Harbour']
+}
+```
 
 ## In what in believe / my values
 
@@ -15,29 +28,6 @@ Desde `scripts` que fiz para facilitar minha rotina até alguns estudos mais com
 🙏🏻 I Trust in humanity<br>
 🕵 Beginner's mindset and curiosity<br>
 🤝 Share makes to grow up
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Como castrar seu potencial com um simples hábito](https://www.linkedin.com/pulse/como-castrar-seu-potencial-com-um-simples-h%C3%A1bito-a-de-avila-campos/)
-- [As áreas te deixam fora da Área](https://www.linkedin.com/pulse/%C3%A1reas-te-deixam-fora-da-%C3%A1rea-jonas-a-de-avila-campos/)
-- [O papel da emoção na sua carreira](https://www.linkedin.com/pulse/o-papel-da-emo%C3%A7%C3%A3o-na-sua-carreira-jonas-a-de-avila-campos/)
-
-<!-- BLOG-POST-LIST:END -->
-
-## 📌 Pinned Repositories
-
-<br>
-
-| Java | Easter Egs |
-| --- | --- |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=desing-patterns-java&theme=tokyonight)](https://github.com/jonasaacampos/desing-patterns-java)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=Reconhecimento-Facial-em-imagens-com-openCV&theme=tokyonight)](https://github.com/jonasaacampos/Reconhecimento-Facial-em-imagens-com-openCV) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=campoMinadoJavaSwing&theme=tokyonight)](https://github.com/jonasaacampos/campoMinadoJavaSwing) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=WhatsApp_bot&theme=tokyonight)](https://github.com/jonasaacampos/WhatsApp_bot) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=JavaMailGen&theme=tokyonight)](https://github.com/jonasaacampos/JavaMailGen) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=is-unifesp-data-sicence&theme=tokyonight)](https://github.com/jonasaacampos/is-unifesp-data-sicence) |
-
 
 
 ## &#x1f4c8; GitHub Stats
