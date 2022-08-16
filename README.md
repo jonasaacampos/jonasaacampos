@@ -6,16 +6,23 @@
 
 I'm Father, Husband, communicative, proactive and sagacious, a person who values good talks. I like reading, studying, cooking, cycling and programming.
 
+See all my public projects [here](https://jonasaacampos.github.io/projects/).
+
+
 ```javascript
 const jonasCampos = {
+
   code: ['Java', 'Python'],
-  certifications: ['SFPC', 'LLL'],
+
+  certifications: ['Lean Six Sigma - White Belt Certification', 'SCRUM Foundation Professional Certificate (SFPC)'],
+
   technologies: {
     tools: ['Flask', 'Bulma', 'Django'],
     mobile: ['Kivy'],
-    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Oracle'],
+    databases: ['SQL', 'Oracle', 'MySQL', 'SQLite'],
     ides: ['VS Code', 'Pycharm', 'Vim', 'InteliJ'],
   },
+  
   methodologies: ['Scrum', 'Kanban'],
   interest: ['Python', 'Java', 'C#', 'R', 'SQL', 'Big Data'],
   otherCodes: ['Harbour']
@@ -40,9 +47,15 @@ const jonasCampos = {
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
+
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
