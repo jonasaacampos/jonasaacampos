@@ -1,107 +1,157 @@
+[![](https://img.shields.io/badge/feito%20com%20%E2%9D%A4%20por-jaac-cyan)](https://github.com/jonasaacampos)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonasaacampos)
-
-[![jonasaacampos header](img/jaacamposGitHubProfile.gif)](https://github.com/jonasaacampos)
-
-# Hey there 👋
-
-I'm Father, Husband, communicative, proactive and sagacious, a person who values good talks. I like reading, studying, cooking, cycling and programming.
-
-See all my public projects [here](https://jonasaacampos.github.io/projects/).
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-```javascript
-const jonasCampos = {
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-  code: ['Java', 'Python'],
+<p>&nbsp;</p>
 
-  certifications: ['Lean Six Sigma - White Belt Certification', 'SCRUM Foundation Professional Certificate (SFPC)'],
+[![jonasaacampos header](img/banner2.png)](https://github.com/jonasaacampos)
 
-  technologies: {
-    tools: ['Flask', 'Bulma', 'Django'],
-    mobile: ['Kivy'],
-    databases: ['SQL', 'Oracle', 'MySQL', 'SQLite'],
-    ides: ['VS Code', 'Pycharm', 'Vim', 'InteliJ'],
-  },
-  
-  methodologies: ['Scrum', 'Kanban'],
-  interest: ['Python', 'Java', 'C#', 'R', 'SQL', 'Big Data'],
-  otherCodes: ['Harbour']
-}
+![](https://img.shields.io/badge/javascript-informational?style=flat&logo=javascript&logoColor=white&color=gold)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=pink)
+![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=green)
+![](https://img.shields.io/badge/django-informational?style=flat&logo=django&logoColor=white&color=black)
+![](https://img.shields.io/badge/flask-informational?style=flat&logo=flask&logoColor=white&color=red)
+![](https://img.shields.io/badge/bulma-informational?style=flat&logo=bulma&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=navy)
+![](https://img.shields.io/badge/android-informational?style=flat&logo=android&logoColor=white&color=green)
+![](https://img.shields.io/badge/dart-informational?style=flat&logo=dart&logoColor=white&color=pink)
+![](https://img.shields.io/badge/postgreSQL-informational?style=flat&logo=Postgresql&logoColor=white&color=grey)
+![](https://img.shields.io/badge/OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=fuscia)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql-server&logoColor=white&color=orange)
+![](https://img.shields.io/badge/flutter-informational?style=flat&logo=flutter&logoColor=white&color=navy)
+![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=navy)
+
+ 
+
+### <img src="img/developer.gif" width="45" /> About Me:
+
+I'm Father, Husband, communicative, proactive and sagacious, a person who values good talks. I like reading, studying, cooking, cycling and programming. See all my public projects [here](https://jonasaacampos.github.io/projects/).
+
+
+
+```python
+
+class jonasaacampos:
+    def __init__(self):
+        self.username = "jonasaacampos"
+        self.name     = "Jonas Campos"
+        self.web      = "https://github.com/jonasaacampos"
+        self.city     = "São João da Boa Vista"
+        self.state    = "São Paulo"
+        
+        self.experiences = {
+            "GN1 - Sistemas e Publicações": [
+
+                {"Cargo": "Desenvolvedor Jr"},
+
+                {
+                    "Tecnologias_Ferramentas_Atividades": [
+                        "ASP",
+                        "C#",
+                        ".Net",
+                        "html",
+                        "data analytics",
+                        "sql server",
+                        "aws",
+                    ]
+                },
+
+                {"Im_work_in_here_today": True},
+            ],
+
+            "Frios Mococa": [
+
+                {"Cargo": "Analista de Desenvolvimento de Sistemas"},
+                {
+                    "Tecnologias_Ferramentas_Atividades": [
+                        "Python",
+                        "Selenium",
+                        "Oracle SQL",
+                        "TOTVS Winthor",
+                        "data analytics",
+                    ]
+                },
+                {"Im_work_in_here_today": False},
+            ],
+
+            "SG Sistemas": [
+
+                {"Cargo": "Analista de Suporte Computacional"},
+                {
+                    "Tecnologias_Ferramentas_Atividades": [
+                        "Planejamento, Documentação, Testes",
+                        "Harbour",
+                        "Java",
+                        "SQL",
+                        "Python",
+                    ]
+                },
+                {"Im_work_in_here_today": False},
+            ],
+        }
+
+        self.code = {
+            "frontend": ["HTML", "CSS", "JavaScript", "Boostrap", "Bulma",],
+            "backend":  ["Python", "Flask", "Django", ".NET", "Java",],
+            "database": ["PostgreSQL", "MySQL", "SQLite3", "Oracle", "Cassandra"],
+            "devops":   ["AWS", "Heroku"],
+            "tools":    ["GIT", "GitHub", "Pandas", "Jupyter notebook", "Looker Studio"],
+            "misc":     ["SCRUM", "GNU/Linux", "Indesign", "Illustrator", "Kanban"],
+        }
+
+        self.architecture = ["SPA", "MVC", "MTV", "microservices"]
+
+        self.learning_working_today = ["Flutter", "Go", "Php", "Django"]
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == "__main__":
+    me = jonasaacampos()
+
+
 ```
 
-## In what in believe / my values
 
-🤪 I seek to the maximum to be an authentic self<br>
-🙏🏻 I Trust in humanity<br>
-🕵 Beginner's mindset and curiosity<br>
-🤝 Share makes to grow up
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-
-## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasaacampos&layout=compact&theme=tokyonight)](https://github.com/jonasaacampos)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonasaacampos&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonasaacampos&theme=vue)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasaacampos&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/jonasaacampos?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FSao_Paulo)
 
+<p>&nbsp;</p>
 
-## 💼 Skills
+## 📕 Latest Blog Posts
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+*is comming on...*
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
+<p>&nbsp;</p>
 
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-
-<br>
-
-
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Indesign-informational?style=flat&logo=Adobe-Indesign&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
-
-</details>
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 ----
 
-<p align='center'>
 
+<p align='center'>
   <a href='https://github.com/jonasaacampos'>
     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
   </a>
-
   <a href='https://www.linkedin.com/in/jonasaacampos/'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
-
-  <a href='https://www.facebook.com/jonasaacampos'>
-    <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/>
+   <a href='https://dev.to/jonasaacampos'>
+    <img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'/>
   </a>
-
+    <a href='https://www.buymeacoffee.com/jaac.dev'>
+    <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black'/>
+  </a>
 </p>
 
 # [![jonasaacampos header](img/github-contribution-grid-snake.svg)](https://github.com/jonasaacampos)
